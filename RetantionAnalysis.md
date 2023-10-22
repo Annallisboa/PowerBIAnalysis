@@ -37,5 +37,9 @@ DIVIDE(
     )
 )
 ```
-**Após a criação das colunas e da medida, basta criamos uma matriz com a CohortColumn como colunas e FirstDate como Linhas. O resultado final com formatação condicional será:**
-![Retantion Analysis]()
+**Após a criação das colunas e da medida, basta criamos uma matriz com a CohortColumn como colunas. O resultado final com formatação condicional será:**
+**After creating the columns and measure, we simply create a matrix with the CohortColumn as columns. The final result with conditional formatting will be:**
+![Retantion Analysis](https://github.com/Annallisboa/PowerBIAnalysis/blob/main/Retention.png)
+
+
+[Click Here to download PowerBI File](https://github.com/Annallisboa/PowerBIAnalysis/blob/main/RetentionPowerBI.pbix)
